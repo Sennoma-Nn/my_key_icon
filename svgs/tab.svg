@@ -3,8 +3,8 @@
 
 <svg
    width="6"
-   height="5"
-   viewBox="0 0 6 5"
+   height="4.5"
+   viewBox="0 0 6 4.4999998"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="70.074764"
-     inkscape:cx="2.1905175"
-     inkscape:cy="2.6828488"
+     inkscape:zoom="88.034794"
+     inkscape:cx="2.311586"
+     inkscape:cy="3.8507502"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -77,24 +77,18 @@
        style="stroke:#000000;stroke-opacity:1">
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m 5.25,13.25 -1,-1 1,-1"
+         d="m 6.75,12.75 2,-2 -2,-2"
          id="path3"
          sodipodi:nodetypes="ccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         d="m 4.25,12.25 h 5.5"
+         d="M 8.75,10.75 H 4.25"
          id="path1"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m 8.75,10.75 1,-1 -1,-1"
-         id="path3-3"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
-         d="M 9.75,9.75 H 4.25"
-         id="path1-5"
-         sodipodi:nodetypes="cc" />
+         style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 9.75,8.75 v 4"
+         id="path2" />
     </g>
   </g>
 </svg>
