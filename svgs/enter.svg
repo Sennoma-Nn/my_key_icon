@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="140.14953"
-     inkscape:cx="2.2939784"
-     inkscape:cy="1.5982929"
+     inkscape:zoom="99.100683"
+     inkscape:cx="3.0726327"
+     inkscape:cy="1.5337937"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
        id="grid1"
@@ -71,23 +71,24 @@
      inkscape:label="圖層 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g1">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         d="m 5.25,3.75 -2.5,-2.5 -2.5,2.5"
-         id="path1"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         d="m 0.25,0.25 h 1.5"
-         id="path2"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         d="m 3.75,0.25 h 1.5"
-         id="path3"
-         sodipodi:nodetypes="cc" />
-    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 5.25,3.7499896 -2.5,-2.5 -2.5,2.5"
+       id="path1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 0.25,0.25 h 1.5"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 3.75,0.25 h 1.5"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="rect1-1-3-6"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="M 3.1031067,1.6035534 2.9263301,1.7803301 a 0.250025,0.250025 0 0 0 -0.3535534,0 L 2.396,1.6035534 2.5727767,1.4267767 2.7495533,1.25 2.92633,1.4267767 Z" />
   </g>
 </svg>
