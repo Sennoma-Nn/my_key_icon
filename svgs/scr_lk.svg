@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4.5"
+   width="3.5"
    height="6"
-   viewBox="0 0 4.5 6"
+   viewBox="0 0 3.5 6"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="128"
-     inkscape:cx="1.7148437"
-     inkscape:cy="2.40625"
+     inkscape:zoom="124.5"
+     inkscape:cx="1.4658635"
+     inkscape:cy="2.9236948"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -66,42 +66,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.6,0,1 @ F,0,0,1,0,0.6,0,1"
-       radius="0.6"
-       unit="px"
-       method="auto"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1-9"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.6,0,1 @ F,0,0,1,0,0.6,0,1"
-       radius="0.6"
-       unit="px"
-       method="auto"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="圖層 1"
      inkscape:groupmode="layer"
@@ -112,23 +77,17 @@
        style="stroke:#000000;stroke-opacity:1">
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="M 8.25,10.75 6.6742641,9.1742641 a 0.6,0.6 0 0 0 -0.8485282,0 L 4.25,10.75"
+         d="m 7.25,10.25 -1.5,-1.5 -1.5,1.5"
          id="path3"
-         sodipodi:nodetypes="ccc"
-         inkscape:path-effect="#path-effect1"
-         inkscape:original-d="m 8.25,10.75 -2,-2 -2,2"
-         transform="translate(0,-0.25009852)" />
+         sodipodi:nodetypes="ccc" />
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="M 8.25,10.75 6.6742641,9.1742641 a 0.6,0.6 0 0 0 -0.8485282,0 L 4.25,10.75"
-         id="path3-4"
-         sodipodi:nodetypes="ccc"
-         inkscape:path-effect="#path-effect1-9"
-         inkscape:original-d="m 8.25,10.75 -2,-2 -2,2"
-         transform="matrix(1,0,0,-1,0,23.25)" />
+         d="m 7.25,12.75 -1.5,1.5 -1.5,-1.5"
+         id="path3-3"
+         sodipodi:nodetypes="ccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         d="m 6.25,9 v 5"
+         d="m 5.75,8.75 v 5.5"
          id="path1"
          sodipodi:nodetypes="cc" />
     </g>
