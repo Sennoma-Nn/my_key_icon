@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="88.034794"
-     inkscape:cx="2.0957623"
+     inkscape:cx="2.1014418"
      inkscape:cy="3.7030813"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -108,32 +108,32 @@
      id="layer1">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 3.75,2.25 1,-1 -1,-0.99999992"
+       d="m 2.25,2.25 -1,-1 1,-0.99999992"
        id="path3"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 4.5,1.2499999 H 0.25"
+       d="M 1.5,1.2499999 H 5.75"
        id="path1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 5.75,0.25 v 2"
+       d="m 0.25,0.25 v 2"
        id="path2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 2.25,4.75 -1,-1 1,-0.9999999"
+       d="m 3.75,4.75 1,-1 -1,-0.9999999"
        id="path3-7"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 1.5,3.7500002 H 5.75"
+       d="M 4.5,3.7500002 H 0.25"
        id="path1-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 0.25,2.7500002 v 2"
+       d="m 5.75,2.7500002 v 2"
        id="path2-2"
        sodipodi:nodetypes="cc" />
   </g>
