@@ -3,8 +3,8 @@
 
 <svg
    width="6"
-   height="4"
-   viewBox="0 0 6 4"
+   height="3.5"
+   viewBox="0 0 6 3.5"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="90.509668"
-     inkscape:cx="3.8946116"
-     inkscape:cy="0.53033009"
+     inkscape:zoom="45.254835"
+     inkscape:cx="5.9330677"
+     inkscape:cy="5.4137862"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -72,7 +72,7 @@
        id="path-effect1"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0.1,0,1"
        radius="0.1"
        unit="px"
        method="auto"
@@ -94,10 +94,10 @@
        transform="translate(-4,-8.5)"
        style="stroke:#000000;stroke-opacity:1">
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m 5.75,12.25 -1.5,-1.5 1.5,-1.5"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 5.25,11.75 -1,-1 1,-1 z"
          id="path3"
-         sodipodi:nodetypes="ccc" />
+         sodipodi:nodetypes="cccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
          d="m 4.25,10.75 h 4.5 a 1,1 135 0 0 1,-1 1,1 45 0 0 -1,-1"
@@ -105,6 +105,16 @@
          sodipodi:nodetypes="ccccc"
          inkscape:path-effect="#path-effect1"
          inkscape:original-d="m 4.25,10.75 h 4.5 1 v -2 h -1" />
+      <path
+         id="rect5-5"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 5.25,10.75 2e-7,-0.595703 h 0.2499995 c 0.0023,0.192639 0.1530602,0.343402 0.3457032,0.345703 l 4e-7,0.25 z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="rect5-5-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 5.25,10.75 2e-7,0.595703 H 5.4999997 C 5.5022997,11.153064 5.6530599,11.002301 5.8457029,11 l 4e-7,-0.25 z"
+         sodipodi:nodetypes="cccccc" />
     </g>
   </g>
 </svg>
